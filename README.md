@@ -46,4 +46,4 @@ This project marks the beginning of my journey with React. It's a simple yet eff
 
 ## About the Author
 
-This project was created by [Your Name]. Connect with me on [GitHub](https://github.com/pianist22) to see more of my work and projects.
+This project was created by [Priyanshu Saha]. Connect with me on [GitHub](https://github.com/pianist22) to see more of my work and projects.
