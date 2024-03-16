@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
 
 2. Navigate to the project directory:
    ```
-   cd top-courses
+   cd top-course-starter
    ```
 
 3. Install dependencies:
